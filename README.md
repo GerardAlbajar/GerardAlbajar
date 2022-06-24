@@ -1,16 +1,23 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300"/>
 
-<!--
-**GerardAlbajar/GerardAlbajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+  
+A young graduate from Barcelona who started his student journey in BAU, making Graphic Design and Visual Communication the basics of my training. I believe design is everywhere, making this the reason for involving myself in the industry.
 
-Here are some ideas to get you started:
+During this time, I discovered UX and UI which widened my initial vision on the topic. Soon I realised that merging software development and graphic design, made the possibilities in creating endless.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For this particular reason, I decided to continue my training at ISDI Coders, studying Full Stack Web Development.
+
+From now on, I expect to keep on the coding track while exploring the limitless world of graphics.
+</div>
+
+<div align="center">
+  
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GerardAlbajar)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardAlbajar)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
